@@ -34,13 +34,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MetroFramework">
-      <HintPath>D:\Soft\vs metro plugins\MetroFramework.dll</HintPath>
+      <HintPath>E:\Software\dll files\dll files fpr metro\MetroFramework.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework.Design">
-      <HintPath>D:\Soft\vs metro plugins\MetroFramework.Design.dll</HintPath>
+      <HintPath>E:\Software\dll files\dll files fpr metro\MetroFramework.Design.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework.Fonts">
-      <HintPath>D:\Soft\vs metro plugins\MetroFramework.Fonts.dll</HintPath>
+      <HintPath>E:\Software\dll files\dll files fpr metro\MetroFramework.Fonts.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
